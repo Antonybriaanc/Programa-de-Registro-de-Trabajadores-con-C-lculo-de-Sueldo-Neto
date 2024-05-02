@@ -1,0 +1,14 @@
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\S4\s4\bin\Debug\net8.0\s4.exe
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\S4\s4\bin\Debug\net8.0\s4.deps.json
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\S4\s4\bin\Debug\net8.0\s4.runtimeconfig.json
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\S4\s4\bin\Debug\net8.0\s4.dll
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\S4\s4\bin\Debug\net8.0\s4.pdb
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\S4\s4\obj\Debug\net8.0\s4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\S4\s4\obj\Debug\net8.0\s4.AssemblyInfoInputs.cache
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\S4\s4\obj\Debug\net8.0\s4.AssemblyInfo.cs
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\S4\s4\obj\Debug\net8.0\s4.csproj.CoreCompileInputs.cache
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\S4\s4\obj\Debug\net8.0\s4.dll
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\S4\s4\obj\Debug\net8.0\refint\s4.dll
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\S4\s4\obj\Debug\net8.0\s4.pdb
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\S4\s4\obj\Debug\net8.0\s4.genruntimeconfig.cache
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\S4\s4\obj\Debug\net8.0\ref\s4.dll
